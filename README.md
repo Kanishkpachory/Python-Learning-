@@ -2,6 +2,23 @@
 
 Welcome to the **Python Learning Course** repository! This repository serves as a comprehensive collection of Python scripts, projects, and exercises crafted over the past two weeks, reflecting my progress in mastering Python programming.
 
+## Table of Contents
+- [Chapter 1: Python Basics](#chapter-1-python-basics)
+- [Chapter 2: Working with Data Structures](#chapter-2-working-with-data-structures)
+- [Chapter 3: Exploring Dictionaries and Sets](#chapter-3-exploring-dictionaries-and-sets)
+- [Chapter 4: Control Flow in Python](#chapter-4-control-flow-in-python)
+- [Chapter 5: Advanced Looping Techniques](#chapter-5-advanced-looping-techniques)
+- [Chapter 6: Functions and File Handling](#chapter-6-functions-and-file-handling)
+- [Chapter 7: Object-Oriented Programming (OOP) Fundamentals](#chapter-7-object-oriented-programming-oop-fundamentals)
+- [Chapter 8: Advanced OOP Concepts](#chapter-8-advanced-oop-concepts)
+- [Chapter 9: Capstone Projects](#chapter-9-capstone-projects)
+- [Chapter 10: Python Notes and Advanced Topics](#chapter-10-python-notes-and-advanced-topics)
+- [Chapter 11: Final Advanced Concepts](#chapter-11-final-advanced-concepts)
+- [Projects](#projects)
+- [Conclusion](#conclusion)
+
+---
+
 ## Repository Overview
 
 This repository is structured into chapters that mirror my learning journey, covering fundamental Python concepts, problem-solving, and advanced topics. Each section includes a range of exercises and projects to solidify the concepts explored.
